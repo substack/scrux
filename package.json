@@ -1,0 +1,36 @@
+{
+  "name": "scrux",
+  "version": "1.0.0",
+  "description": "screen reader terminal multiplexer",
+  "main": "index.js",
+  "dependencies": {
+    "minimist": "~0.0.8",
+    "shux": "~0.2.0",
+    "through2": "~0.4.1"
+  },
+  "devDependencies": {
+    "tape": "~2.12.1"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/scrux.git"
+  },
+  "homepage": "https://github.com/substack/scrux",
+  "keywords": [
+    "screen",
+    "reader",
+    "blind",
+    "accessibility",
+    "shell",
+    "terminal"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
