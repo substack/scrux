@@ -2,7 +2,9 @@
   "name": "scrux",
   "version": "1.0.0",
   "description": "screen reader terminal multiplexer",
-  "main": "index.js",
+  "bin": {
+    "scrux": "bin/cmd.js"
+  },
   "dependencies": {
     "minimist": "~0.0.8",
     "shux": "~0.2.0",
