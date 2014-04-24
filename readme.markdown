@@ -11,7 +11,9 @@ early prototype
 
 # install
 
-With [npm](https://npmjs.org) do:
+First, install [espeak](http://espeak.sourceforge.net/).
+
+Then with [npm](https://npmjs.org) do:
 
 ```
 npm install -g scrux
