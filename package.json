@@ -1,6 +1,6 @@
 {
   "name": "scrux",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "screen reader terminal multiplexer",
   "bin": {
     "scrux": "bin/cmd.js"
